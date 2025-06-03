@@ -1,0 +1,25 @@
+body {
+    font-family: sans-serif;
+    padding: 40px;
+    border-radius: 12px;
+    text-align: center;
+    height: 100vh;
+    background: #e2e2e2;
+}
+.Box {
+    background-color: white;
+    padding: 40px;
+    border-radius: 12px;
+    text-align: center;
+    box-shadow: 0 0 10px #aaa;
+}
+button {
+    padding: 10px 20px ;
+    font-size: 18px;
+    margin-top: 20px;
+    cursor: pointer;
+}
+#dice {
+    font-size: 80px;
+    margin-top: 20px;
+}
